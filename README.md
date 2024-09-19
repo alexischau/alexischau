@@ -1,4 +1,4 @@
-### Hello! My name is Alexis and I am a 4th-year Computer Science major at UC Irvine.
+### Hello! My name is Alexis and I am a recent graduate from UC Irvine, majoring in Computer Science.
 
 I'm very passionate about creating projects to help people live life easier. I'm currently working on developing my skills on both frontend and backend, hoping to maintain a strong understanding of both. My strongest languages are **Python** and **C++**, although I am always looking to learn more to broaden my capabilites.
 
